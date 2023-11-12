@@ -1,0 +1,2 @@
+"# test-repo"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/jojispoonn/INT101hw.gitgit push -u origin main
+"# test-repo"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/jojispoonn/INT101hw.gitgit push -u origin main
